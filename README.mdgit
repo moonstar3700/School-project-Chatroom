@@ -1,0 +1,1 @@
+"# project-distributed-applications-groep77"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/UcllDistributedApplications/project-distributed-applications-groep77.gitgit push -u origin main
